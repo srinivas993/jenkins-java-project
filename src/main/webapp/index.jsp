@@ -18,11 +18,11 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Nim email-id harki pa!!!!!</label>
+          <label>Enter your email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Passsabda</label>
+          <label>Password</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
