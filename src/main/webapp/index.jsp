@@ -21,8 +21,8 @@
           <label>Enter your email</label>
         </div>
         <div class="form-control">
-          <input type="passw" required />
-          <label>Password</label>
+          <input type="password" required />
+          <label>Pass</label>
         </div>
         <button type="submit"> Login  </button>
         <div class="form-help">
